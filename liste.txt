@@ -1,5 +1,5 @@
 1. Kullanıcı Dostu Arayüz
 2. Kullanıcı Engelleme
-3. End to End mesaj
+3. Login
 4. Takipçi ekleme
-5. Login
+5. End To End Mesaj
